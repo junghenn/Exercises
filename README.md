@@ -1,5 +1,5 @@
 # Exercises
-Exercises in different assortments of languages
+Exercises in an assortments of different programming languages.
 
 LINKS:
 
